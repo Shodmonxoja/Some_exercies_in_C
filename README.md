@@ -1,2 +1,3 @@
-# Simple-user-follower-code-in-C
-the code was for user-follower relation exercise in c. Done using adjacency list.
+# Some exercises in C
+1. Simple user-follower relation program using Adjacency list
+2. Determinant solver using recursion
