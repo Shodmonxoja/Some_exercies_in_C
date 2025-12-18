@@ -1,0 +1,6 @@
+5
+flour 19
+sugar 23
+eggs 12
+milk 9
+cocoa 11

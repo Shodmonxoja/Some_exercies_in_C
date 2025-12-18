@@ -1,0 +1,13 @@
+3
+Easter_eggs 6 2
+cocoa 5
+milk 2
+Sacher_cake 22 3
+flour 3
+cocoa 8
+jam 2
+Mimosa_cake 18 4
+eggs 3
+sugar 5
+cocoa 4
+flour 5
